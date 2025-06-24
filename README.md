@@ -55,3 +55,7 @@ Error-handling for smoother user experience.
 # Conclusion:
 This task demonstrates how pre-trained models and Python libraries can be effectively used to convert speech to text. It provides the foundation for more advanced applications like voice assistants, audio note-taking tools, or accessibility software. The system works offline for reading audio files and online when connecting to the API for transcription.
 
+# OUTPUT #
+
+![Image](https://github.com/user-attachments/assets/4e691a5c-9b1d-44a4-9a5d-95a4c65a70de)
+
